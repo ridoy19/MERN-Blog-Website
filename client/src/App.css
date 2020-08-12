@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #fffdf7;
+  background-image: url("https://www.transparenttextures.com/patterns/mirrored-squares.png");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+hr {
+  border: 2px solid rgb(45, 46, 45);
+  border-radius: 5px;
+}
+
+.comm{
+  border: 0.3px solid gray;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color:#fff;
+}
+
+.shadow {
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
